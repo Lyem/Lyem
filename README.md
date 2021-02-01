@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm [Rafael!](https://github.com/Lyem) 👋
 
 <!--
 **Lyem/Lyem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

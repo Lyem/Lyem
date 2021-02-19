@@ -1,4 +1,4 @@
-### Hi there, I'm [Rafael!](https://personal-website.lyem.vercel.app/) 👋
+<h1 align="center">Hi there, I'm <a href="https://personal-website.lyem.vercel.app/">Rafael</a> <img width="4%" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"/></h1>
 
 <!--
 **Lyem/Lyem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

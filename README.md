@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white&link=rafael.melo21@fatecitu.edu.br" /></a>
   
   <a href="https://t.me/libus" alt="Telegram">
-  <img src="https://img.shields.io/badge/-Telegram-1ad1ff?style=for-the-badge&labelColor=1ad1ff&logo=telegram&link=https://t.me/libus" /></a>
+  <img src="https://img.shields.io/badge/-Telegram-1ad1ff?style=for-the-badge&labelColor=1ad1ff&logo=data:image/svg%2bxml;base64,PHN2ZyB2aWV3Qm94PSIwIC0zMSA1MTIgNTEyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Im0yMTEgMjcwLTQwLjkxNzk2OSA0My42NzU3ODEgMTAuOTE3OTY5IDc2LjMyNDIxOSAxMjAtOTB6bTAgMCIgZmlsbD0iI2NjZjVmZiIvPjxwYXRoIGQ9Im0wIDE4MCAxMjEgNjAgOTAgMzAgMjEwIDE4MCA5MS00NTB6bTAgMCIgZmlsbD0iI2ZmZmZmZiIvPjxwYXRoIGQ9Im0xMjEgMjQwIDYwIDE1MCAzMC0xMjAgMjEwLTE4MHptMCAwIiBmaWxsPSIjZTZmYWZmIi8+PC9zdmc+&link=https://t.me/libus" /></a>
 
   <a href="https://www.linkedin.com/in/rafael-corr%C3%AAa-de-melo/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-corr%C3%AAa-de-melo/" /></a>

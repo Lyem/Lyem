@@ -40,5 +40,9 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=lyem)
 
-<img width="477px" align="left" src="https://github-readme-stats.vercel.app/api?username=lyem&show_icons=true&theme=radical" /></td>
-<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyem&layout=compact&show_icons=true&theme=radical" /></td>
+<table>
+  <tr>
+      <td><img width="477px" align="left" src="https://github-readme-stats.vercel.app/api?username=lyem&show_icons=true&theme=radical" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyem&layout=compact&show_icons=true&theme=radical" /></td>
+  </tr>   
+</table>

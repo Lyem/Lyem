@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 I love identifying problems and finding solutions through programming, I'm striving to learn more efficient and elegant ways to solve them, if you have any tips to help me, don't hesitate to contact me
 
 I'm currently starting to get interested in open source projects and soon I intend to get involved with some
-<br><br>
+<br><br><br><br>
 <hr></hr>
 
 <p align="left">💌 If you want to chat with me, don't hesitate to send me a message: ⤵️</p>

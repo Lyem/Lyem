@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://personal-website.lyem.vercel.app/">Rafael</a> <img width="30px" src="https://raw.githubusercontent.com/Lyem/Lyem/main/hi.gif"/></h1>
+<h1 align="center">Hi there, I'm <a href="https://personal-website.lyem.vercel.app/">Rafael</a> <img width="30px" src="assets/hi.gif"/></h1>
 
 <!--
 **Lyem/Lyem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,12 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/Lyem/Lyem/blob/main/computer-illustration.png?raw=true" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="assets/writing.png" min-width="400px" max-width="400px" width="300px" align="right">
 
 <p align="left">I am studying <strong>Analysis and systems development</strong> at Fatec-Itu.</p>
 
-- 🌱 I’m currently learning Nextjs
-- 🤔 I’m looking for help with UX Design
+I love identifying problems and finding solutions through programming, I'm striving to learn more efficient and elegant ways to solve them, if you have any tips to help me, don't hesitate to contact me
+
+I'm currently starting to get interested in open source projects and soon I intend to get involved with some
+<br><br>
+<hr></hr>
 
 <p align="left">💌 If you want to chat with me, don't hesitate to send me a message: ⤵️</p>
 
@@ -36,13 +39,19 @@ Here are some ideas to get you started:
 
   <a href="https://www.instagram.com/rafaelcorreamelo/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/rafaelcorreamelo/"/></a>
-</p>  
-
+</p>
 ![](https://komarev.com/ghpvc/?username=lyem)
 
-<table>
-  <tr>
-      <td><img width="477px" align="left" src="https://github-readme-stats.vercel.app/api?username=lyem&show_icons=true&theme=radical" /></td>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyem&layout=compact&show_icons=true&theme=radical" /></td>
-  </tr>   
-</table>
+<hr></hr>
+
+- <img alt="GIF" src="assets/work.gif" width="25" /> I’m currently learning **Nestjs**, **TypeScript**.
+- <img alt="GIF" src="assets/pepe_talk.gif" width="25" /> Ask me about **Programming**, **Animes**, **Mangás**.
+- <img alt="GIF" src="assets/happy_cat.gif" width="25" /> I like exploring **Linux**.
+
+
+<a  href="https://github.com/lyem">
+
+<div align="center"> 
+<img alt="lyem's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=lyem&show_icons=true&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" href="https://github.com/lyem" />
+<img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyem&layout=compact&count_private=true&&hide_border=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2_count=5" href="https://github.com/lyem" />
+</a>

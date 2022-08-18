@@ -42,7 +42,7 @@ I'm currently starting to get interested in open source projects and soon I inte
 
 <hr></hr>
 
-- <img alt="GIF" src="assets/work.gif" width="25" /> I’m currently learning **Nestjs**, **TypeScript**.
+- <img alt="GIF" src="assets/work.gif" width="25" /> I’m currently learning **Design Patterns**.
 - <img alt="GIF" src="assets/pepe_talk.gif" width="25" /> Ask me about **Programming**, **Animes**, **Mangás**.
 - <img alt="GIF" src="assets/happy_cat.gif" width="25" /> I like exploring **GNU/Linux**.
 

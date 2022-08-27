@@ -50,6 +50,7 @@ I'm currently starting to get interested in open source projects and soon I inte
 <a  href="https://github.com/lyem">
 
 <div align="center"> 
-<img alt="lyem's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=lyem&show_icons=true&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" href="https://github.com/lyem" />
-<img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyem&layout=compact&count_private=true&&hide_border=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2_count=5" href="https://github.com/lyem" />
+<img alt="lyem's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=lyem&theme=tokyonight" href="https://github.com/lyem" />
+<!--- <img width="50%" alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lyem&theme=tokyonight&layout=compact" /> -->
+<img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyem&layout=compact&theme=tokyonight" href="https://github.com/lyem" />
 </a>

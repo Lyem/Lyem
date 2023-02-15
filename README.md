@@ -34,8 +34,6 @@ I'm currently starting to get interested in open source projects and soon I inte
   <a href="https://www.linkedin.com/in/rafael-corr%C3%AAa-de-melo/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-corr%C3%AAa-de-melo/" /></a>
 
-  <a href="https://www.instagram.com/rafaelcorreamelo/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/rafaelcorreamelo/"/></a>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=lyem)

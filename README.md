@@ -25,6 +25,14 @@ I'm currently starting to get interested in open source projects and soon I inte
 <br><br><br><br>
 <hr></hr>
 
+<div align="left">
+ <a href="https://app.daily.dev/galho" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://api.daily.dev/devcards/4ac6e7b5c3694bc2b4c3e693cecc4672.png?r=0wm"
+    />
+  </a>
 <p align="left">💌 If you want to chat with me, don't hesitate to send me a message: ⤵️</p>
 
 <p align="left">
@@ -39,11 +47,14 @@ I'm currently starting to get interested in open source projects and soon I inte
 ![](https://komarev.com/ghpvc/?username=lyem)
 
 <hr></hr>
+ 
+</div>
 
 - <img alt="GIF" src="assets/work.gif" width="25" /> I’m currently learning **Design Patterns**.
 - <img alt="GIF" src="assets/pepe_talk.gif" width="25" /> Ask me about **Programming**, **Animes**, **Mangás**.
 - <img alt="GIF" src="assets/happy_cat.gif" width="25" /> I like exploring **GNU/Linux**.
 
+<br /><br /><br />
 
 <a  href="https://github.com/lyem">
 

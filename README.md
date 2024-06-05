@@ -38,10 +38,6 @@ I'm currently starting to get interested in open source projects and soon I inte
 <p align="left">
   <a href="mailto:rafael.melo21@fatecitu.edu.br" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white&link=rafael.melo21@fatecitu.edu.br" /></a>
-  
-  <a href="https://www.linkedin.com/in/rafael-corr%C3%AAa-de-melo/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-corr%C3%AAa-de-melo/" /></a>
-
 </p>
 
 ![](https://komarev.com/ghpvc/?username=lyem)
